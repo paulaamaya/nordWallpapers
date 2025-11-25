@@ -16,6 +16,3 @@ The images below are preview versions. Full-resolution images are available in t
 
 **Source:** [alphacoders](https://wall.alphacoders.com/big.php?i=1129294)
 
-<img src="./img/wall-04.png" width="600">
-
-**Source:** [alphacoders](https://wall.alphacoders.com/big.php?i=1314617)
